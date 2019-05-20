@@ -1,0 +1,299 @@
+.box{
+    width: 700px;
+    height: 650px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    padding: 25px 0;
+    background-color: #faebd7;
+}
+.header1{
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    background-color: #d2b48c;
+    padding: 15px 0;
+}
+.header2{
+    width: 40%;
+    height: 20px;
+    margin: 15px auto;
+    background-color: white;
+    text-align: center;
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    float:left;
+}
+.menu-item {
+    float: left;
+    width: 20%;
+    height: 100px;
+    text-align: center;
+}
+.menu1{
+    background-color: #5f9ea0;
+}
+.menu2{
+    background-color: #6495ed;
+}
+.menu3{
+    background-color: #f5deb3;
+}
+.menu4{
+    background-color: #f08080;
+}
+.menu5{
+    background-color: #4b0082;
+}
+.container{
+    width: 100%;
+    height: 300px;
+}
+.panel-left{
+   width: 33%;
+   height: 100%;
+   background-color:#008000;
+   float: left;
+}
+.text{
+    width: 150px;
+    height: 20px;
+    background-color: #c0c0c0;
+    text-align: center;
+    margin: 10px auto;
+    padding: 20px 0;
+}
+.three-four-five{
+    margin: 5px 45px;
+}
+.three{
+    width: 140px;
+    height: 50px;
+    background-color: #8b0000;
+    text-align: center;
+}
+.four{
+    width: 70px;
+    height: 170px;
+    background-color: #fa8072;
+    float: left;
+    text-align: center;
+}
+.five{
+    width: 70px;
+    height: 170px;
+    background-color: #bdb76b;
+    float: left;
+}
+.panel-center{
+    width: 34%;
+    height: 100%;
+    float: left;
+    background-color: #008080;
+}
+.a{
+    width: 100%;
+    height: 10%;
+}
+.bcd{
+    width: 100%;
+    height: 90%;
+}
+.b{
+    background-color: #66cdaa;
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+.b-text{
+    height: 20%;
+    width: 100%;
+}
+.b1{
+    background-color: #a52a2a;
+    width: 50%;
+    height: 80%;
+    float: left;
+}
+.b-empty{
+    width: 50%;
+    height: 40%;
+    float: right;
+}
+.b2{
+    background-color: #adff2f;
+    width: 50%;
+    height: 40%;
+    float: right;
+}
+.c{
+    width: 34%;
+    height: 100%;
+    float: left;
+}
+.c1{
+    background-color: #add8e6;
+    height: 25%;
+    width: 100%;
+}
+.c2{
+    background-color: #00008b;
+    height: 25%;
+    width: 100%;
+}
+.c3{
+   background-color: #8b008b; 
+   height: 25%;
+   width: 100%;
+}
+.c4{
+    background-color: #fdf5e6;
+    float: left;
+    height: 25%;
+    width: 50%;
+}
+.c5{
+    background-color: #fa8072;
+    float: left;
+    height: 25%;
+    width: 50%;
+}
+.d{
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+.d-text{
+    width: 100%;
+    height: 25%;
+    background-color: #40e0d0;
+}
+.d1{
+    width: 100%;
+    height: 25%;
+}
+.d3{
+    width: 100%;
+    height: 50%;
+    background-color: #ffdead;
+}
+.d3-image{
+    width: 100%;
+    height: 80%;
+}
+.d3-image img{
+    width: 30%;
+}
+.panel-right{
+    width: 33%;
+    height: 100%;
+    background-color: #ff7f50;
+    float: right;
+}
+.numbers1{
+    width: 33%;
+    height: 10%;
+    background-color: #8fbc8f;
+    float: left;
+}
+.numbers2{
+    width: 34%;
+    height: 10%;
+    background-color: #da70d6;
+    float: left;
+}
+.numbers3{
+    width: 33%;
+    height: 10%;
+    background-color: #ff7134;
+    float: left;
+}
+.numbers5{
+    width: 100%;
+    height: 10%;
+    background-color: #faf0e6;
+    clear: both;
+    padding: 5% 0;
+}
+.numbers4{
+    width: 50%;
+    height: 8px;
+    background-color: red;
+    margin: 0 auto;
+    padding-top: 22px;
+}
+.black-rectangle{
+    width: 30%;
+    height: 100%;
+    background-color: black;
+    margin: 0 auto;
+}
+.numbers6{
+    width: 100%;
+    height: 20%;
+    background-color: #dcdcdc;
+}
+.numbers7{
+    width: 33%;
+    height: 53%;
+    background-color: #2f4f4f;
+    float: left;
+}
+.numbers8-11{
+    width: 67%;
+    height: 53%;
+    float: left;
+}
+.numbers8{
+    width: 100%;
+    height: 33%;
+    background-color: #708090;
+}
+.numbers9-10{
+    width: 100%;
+    height: 34%;
+}
+.numbers9{
+    width: 50%;
+    height: 100%;
+    background-color: #8a2be2;
+    float: left;
+}
+.numbers10{
+    width: 50%;
+    height: 100%;
+    background-color: #fafad2;
+    float: left;
+}
+.numbers11{
+    width: 100%;
+    height: 33%;
+    background-color: #dda0dd;
+}
+.basement{
+    width: 100%;
+    height: 100px;
+    background-color: #696969;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
